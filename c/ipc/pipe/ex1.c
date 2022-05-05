@@ -1,4 +1,4 @@
-https://zhuanlan.zhihu.com/p/402341124
+//https://zhuanlan.zhihu.com/p/402341124
 #include <stdio.h>
 #include <unistd.h>
 #include <string.h>
